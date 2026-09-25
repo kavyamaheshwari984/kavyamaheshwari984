@@ -55,9 +55,9 @@ A PWA concept focused on suggesting safer routes using factors such as lighting,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kavyamaheshwari984&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+<img src="profile/stats.svg" height="170">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavyamaheshwari984&layout=compact&theme=tokyonight&hide_border=true" height="170">
+<img src="profile/top-langs.svg" height="170">
 
 </div>
 
